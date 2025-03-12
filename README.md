@@ -34,11 +34,11 @@ _A React-based note-taking app with Firebase Authentication and Firestore._
 - 🔥 Firebase authentication for secure user login.  
 - 🚀 Fully responsive UI built with Tailwind CSS.  
 
-### 📌 [P2Care Website](https://github.com/uttammarakana/P2Care)
-_A fully functional e-commerce web app built using React, Redux, and Firebase._  
-- 🛒 Add to cart, wishlist, and checkout features.  
-- 🔄 Uses Redux Toolkit for global state management.  
-- 💳 Integrated payment gateway for seamless transactions.  
+### 📌 [P2Care Website](https://github.com/uttammarakana/p2care)
+_A hospitality-based website designed to simplify healthcare services._  
+- 🏥 Search and book healthcare services with ease.  
+- 🌐 Fully responsive UI built using React and Bootstrap.  
+- 🔄 Features include patient registration, booking history, and appointment management.  
 
 ---
 
