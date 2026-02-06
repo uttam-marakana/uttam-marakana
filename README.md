@@ -2,30 +2,32 @@
 
 ### 🚀 React Developer | Shopify Frontend Developer | E-commerce UI Specialist
 
-Passionate about building dynamic, scalable, and responsive web applications. I focus on performance-driven frontend development, modern UI architecture, and e-commerce experiences using React and Shopify. I enjoy improving speed, usability, and maintainability in production-ready interfaces.
+Passionate about building dynamic, scalable, and responsive web applications. I focus on performance-driven frontend development, modern UI architecture, and modern frontend experiences using React and Shopify. I enjoy improving speed, usability, and maintainability in production-ready interfaces.
 
 ---
 
 ## ✅ Tech Skills
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40" height="40"/>
 </p>
 
 ### 💡 Additional Skills
 
-- Shopify Theme Development
-- Liquid Templating
-- Responsive Design & Performance Optimization
-- Cross-browser Compatibility
+- React Component Architecture
+- State Management (Redux)
+- Shopify Theme Development  
+- Liquid Templating  
+- Responsive Design & Performance Optimization  
+- Cross-browser Compatibility  
 - Component-based UI Development
 
 ---
@@ -44,6 +46,7 @@ Passionate about building dynamic, scalable, and responsive web applications. I 
 - Responsive & Mobile-First UI Development
 - E-commerce UI/UX Implementation
 - Scalable Component Architecture
+- React-based Frontend Architecture
 
 ---
 
@@ -113,5 +116,9 @@ _A hospitality-based website designed to simplify healthcare services._
 
 ## 📫 Connect with Me
 
+## 📫 Connect with Me  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-marakana)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttammarakana03@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttammarakana03@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/uttam_marakana_)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/916353098381)
