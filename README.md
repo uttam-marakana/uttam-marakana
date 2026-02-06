@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Uttam Marakana
 
-### 🚀 React Developer | Frontend Enthusiast
+### 🚀 React Developer | Shopify Frontend Developer | E-commerce UI Specialist
 
-Passionate about building dynamic and responsive web applications. I enjoy working with modern technologies and improving performance optimization techniques.
+Passionate about building dynamic, scalable, and responsive web applications. I focus on performance-driven frontend development, modern UI architecture, and e-commerce experiences using React and Shopify. I enjoy improving speed, usability, and maintainability in production-ready interfaces.
 
 ---
 
@@ -17,15 +17,43 @@ Passionate about building dynamic and responsive web applications. I enjoy worki
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40" height="40"/>
 </p>
+
+### 💡 Additional Skills
+
+- Shopify Theme Development
+- Liquid Templating
+- Responsive Design & Performance Optimization
+- Cross-browser Compatibility
+- Component-based UI Development
 
 ---
 
 ## 📚 What I'm Currently Learning 🚀
 
-- **Backend Development:** Node.js, Express.js, MongoDB
-- **Advanced State Management:** Redux Toolkit, RTK Query
-- **Full-Stack Development:** MERN Stack
+- **BigCommerce Development:** Stencil Framework
+- **Templating:** Handlebars.js
+- **Advanced Theme Architecture & Customisation**
+
+---
+
+## 🧠 Focus Areas
+
+- Frontend Performance Optimisation
+- Responsive & Mobile-First UI Development
+- E-commerce UI/UX Implementation
+- Scalable Component Architecture
+
+---
+
+## ⚡ E-commerce Expertise
+
+- Shopify Theme Development & Customisation
+- Liquid-Based Dynamic Sections
+- Performance & Responsive Optimisation
+- Conversion-Focused UI Implementation
+- Scalable Frontend Architecture
 
 ---
 
@@ -35,9 +63,11 @@ Passionate about building dynamic and responsive web applications. I enjoy worki
 
 _A React-based note-taking app with Firebase Authentication and Firestore._
 
-- 📝 Create, edit, delete, and organize notes into different boards.
+- 📝 Create, edit, delete, and organise notes into different boards.
 - 🔥 Firebase authentication for secure user login.
 - 🚀 Fully responsive UI built with Tailwind CSS.
+
+---
 
 ### 📌 [P2Care Website](https://github.com/uttammarakana/p2care)
 
@@ -49,11 +79,35 @@ _A hospitality-based website designed to simplify healthcare services._
 
 ---
 
+## 🛍️ Shopify Development (In Progress)
+
+### 📌 Alpine Selection (Shopify Store – In Development)
+
+- Custom Shopify theme implementation using Liquid
+- Responsive and performance-focused frontend structure
+- Ongoing UI and layout improvements
+
+🔗 Preview Store: https://uttam-rootways.myshopify.com  
+🔐 Password: uttam
+
+---
+
+### 📌 Catalan Gourmet (Shopify Store – In Development)
+
+- Shopify theme customisation and section-based development
+- Responsive product and collection layouts
+- Continuous UI and performance refinement
+
+🔗 Preview Store: https://dev-calatan-gourmet.myshopify.com  
+🔐 Password: cg
+
+---
+
 ## 🎉 Fun Facts About Me
 
-✔️ I started learning React out of curiosity, and now I build full-Functional Website Frontend.  
+✔️ I started learning React out of curiosity, and now I build full-featured website frontends.  
 ✔️ I love experimenting with new UI frameworks like Tailwind CSS.  
-✔️ When I'm not coding, I enjoy gaming(BGMI) and exploring tech blogs or Do Option Trading.
+✔️ When I'm not coding, I enjoy gaming (BGMI), exploring tech blogs, or doing option trading.
 
 ---
 
