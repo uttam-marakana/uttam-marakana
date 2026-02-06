@@ -9,25 +9,70 @@ Passionate about building dynamic, scalable, and responsive web applications. I 
 ## ✅ Tech Skills
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="Shopify" width="40" height="40"/>
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" 
+    alt="HTML5" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" 
+    alt="CSS3" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+    alt="JavaScript" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" 
+    alt="ReactJS" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" 
+    alt="Redux" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" 
+    alt="Bootstrap" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" 
+    alt="TailwindCSS" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" 
+    alt="Firebase" 
+    width="40" 
+    height="40"
+   />
+  <img
+    src="https://cdn.worldvectorlogo.com/logos/shopify.svg" 
+    alt="Shopify" 
+    width="40" 
+    height="40"
+   />
 </p>
 
 ### 💡 Additional Skills
 
 - React Component Architecture
 - State Management (Redux)
-- Shopify Theme Development  
-- Liquid Templating  
-- Responsive Design & Performance Optimization  
-- Cross-browser Compatibility  
+- Shopify Theme Development
+- Liquid Templating
+- Responsive Design & Performance Optimization
+- Cross-browser Compatibility
 - Component-based UI Development
 
 ---
@@ -116,7 +161,7 @@ _A hospitality-based website designed to simplify healthcare services._
 
 ## 📫 Connect with Me
 
-## 📫 Connect with Me  
+## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uttam-marakana)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uttammarakana03@gmail.com)  
