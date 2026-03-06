@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Uttam Marakana
 
-### 🚀 React Developer | Shopify Frontend Developer | E-commerce UI Specialist
+### 🚀 React Developer | Shopify Frontend Developer 
 
 Passionate about building dynamic, scalable, and responsive web applications. I focus on performance-driven frontend development, modern UI architecture, and modern frontend experiences using React and Shopify. I enjoy improving speed, usability, and maintainability in production-ready interfaces.
 
@@ -81,7 +81,6 @@ Passionate about building dynamic, scalable, and responsive web applications. I 
 
 - **BigCommerce Development:** Stencil Framework
 - **Templating:** Handlebars.js
-- **Advanced Theme Architecture & Customisation**
 
 ---
 
@@ -158,8 +157,6 @@ _A hospitality-based website designed to simplify healthcare services._
 ✔️ When I'm not coding, I enjoy gaming (BGMI), exploring tech blogs, or doing option trading.
 
 ---
-
-## 📫 Connect with Me
 
 ## 📫 Connect with Me
 
