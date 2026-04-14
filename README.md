@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Uttam Marakana
 
-### 🚀 React Developer | Shopify Frontend Developer 
+### 🚀 React Developer | Shopify Frontend Developer
 
 > **Crafting High-Performance, Scalable Frontend Experiences**
 
@@ -277,10 +277,10 @@ I'm always interested in discussing frontend architecture, e-commerce solutions,
 I'm continuously evolving my skills and working on:
 
 - ✨ Advanced React patterns and optimization techniques
-- 🔗 Next.js full-stack development
+- � Advanced Shopify theme development and app integrations
 - 📊 Performance analytics and Core Web Vitals mastery
-- 🛒 BigCommerce platform expertise
-- 🎨 Design system architecture
+- 🛍️ E-commerce platform expertise (Shopify, BigCommerce)
+- 🎨 Design system architecture and component libraries
 
 _Let's build something amazing together!_ 💻✨
 
