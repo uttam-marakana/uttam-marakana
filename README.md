@@ -117,7 +117,7 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
 
 ## 🌟 Featured Projects
 
-### 📌 [Multi-Board Note-Taking App](https://github.com/uttammarakana/note-taking-app)
+### 📌 [Multi-Board Note-Taking App](https://github.com/uttam-marakana/Multi-Notes-App)
 
 **A React-based note-taking app with Firebase Authentication and Firestore**
 
