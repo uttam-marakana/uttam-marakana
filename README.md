@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Uttam Marakana
 
-### 🚀 React Developer | Shopify Frontend Developer | Full-Stack UI Architect
+### 🚀 React Developer | Shopify Frontend Developer 
 
 > **Crafting High-Performance, Scalable Frontend Experiences**
 
@@ -33,7 +33,7 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="50" height="50" title="Bootstrap" />
 </p>
 
-**Expertise:** Responsive Design, Mobile-First Development, CSS-in-JS, Advanced Animations, Performance Optimization
+**Expertise:** Responsive Design, Mobile-First Development, Performance Optimization
 
 ---
 
@@ -98,7 +98,7 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
 | Technology                | Purpose                              |
 | :------------------------ | :----------------------------------- |
 | **BigCommerce (Stencil)** | Modern e-commerce platform framework |
-| **Advanced TypeScript**   | Type-safe React applications         |
+| **Advanced JavaScript**   | Type-safe React applications         |
 | **Next.js**               | Production-grade React framework     |
 | **Performance Analytics** | Core Web Vitals optimization         |
 
