@@ -99,7 +99,6 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
 | :------------------------ | :----------------------------------- |
 | **BigCommerce (Stencil)** | Modern e-commerce platform framework |
 | **Advanced JavaScript**   | Type-safe React applications         |
-| **Next.js**               | Production-grade React framework     |
 | **Performance Analytics** | Core Web Vitals optimization         |
 
 ---
@@ -171,7 +170,7 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
 - Modular architecture for easy feature expansion
 
 **Live Demo:** [https://dhatru-care.vercel.app/](https://dhatru-care.vercel.app/)  
-**Admin Dashboard:** [https://dhatru-care.vercel.app/admin/upload](https://dhatru-care.vercel.app/admin/upload)
+**Admin Dashboard:** [https://dhatru-care.vercel.app/admin](https://dhatru-care.vercel.app/admin/)
 
 ---
 
@@ -193,8 +192,7 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
 - 🎯 Conversion-focused UI/UX design
 - 🔄 Continuous optimization & refinement
 
-<!-- 🔗 Preview Store: https://uttam-rootways.myshopify.com -->
-<!-- 🔐 Password: uttam -->
+<!-- 🔗 Preview Store: based on the request -->
 
 ---
 
@@ -214,8 +212,7 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
 - 🔍 SEO optimization strategies
 - ⚙️ Continuous performance refinement
 
-<!-- 🔗 Preview Store: https://dev-calatan-gourmet.myshopify.com -->
-<!-- 🔐 Password: cg -->
+<!-- 🔗 Preview Store: based on the request -->
 
 ---
 
@@ -247,7 +244,7 @@ I'm a dedicated frontend engineer with a passion for building **production-grade
 | Metric                            | Value                              |
 | :-------------------------------- | :--------------------------------- |
 | **Years in Frontend Development** | 2+                                 |
-| **Projects Completed**            | 10+                                |
+| **Projects Completed**            | 7+                                |
 | **Tech Stack Mastery**            | React, Firebase, Shopify, Tailwind |
 | **Live Production Projects**      | 2+                                 |
 | **GitHub Contributions**          | Active & Growing                   |
@@ -290,7 +287,7 @@ _Let's build something amazing together!_ 💻✨
 
 **Made with ❤️ by Uttam Marakana | Frontend Developer & UI Architect**
 
-📍 Location: Gondal, Gujarat | 🕐 IST (UTC+5:30)
+📍 Location: Rajkot, Gujarat | 🕐 IST (UTC+5:30)
 
 _"Performance isn't a feature, it's a promise."_ ⚡
 
